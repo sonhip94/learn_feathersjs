@@ -1,0 +1,23 @@
+{
+  "name": "learn_feathersjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonhip94/learn_feathersjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonhip94/learn_feathersjs/issues"
+  },
+  "homepage": "https://github.com/sonhip94/learn_feathersjs#readme",
+  "dependencies": {
+    "@feathersjs/feathers": "^3.1.4"
+  }
+}
